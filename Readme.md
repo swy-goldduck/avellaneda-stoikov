@@ -17,3 +17,12 @@ The original results were:
 
 
 Plots of mid-price and optimal bid and ask quotes and also of final P&L are attached, as in the original study.
+
+### Other reference
+* https://github.com/ragoragino/avellaneda-stoikov
+  * 24 fork🍴, 63 star⭐️
+* https://github.com/mdibo/Avellaneda-Stoikov
+  * 52 fork🍴, 70 star⭐️
+* https://github.com/fedecaccia/avellaneda-stoikov
+  * 34 fork🍴, 56 star⭐️️
+    
